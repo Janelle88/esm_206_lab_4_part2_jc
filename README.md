@@ -1,1 +1,10 @@
-# esm_206_lab_4_part2_jc
+# My awesome ReadMe!!
+
+- Some
+- Bullet
+- Points
+
+And other **useful information**!
+
+*YAY*
+
